@@ -27,6 +27,8 @@ gem 'faker'
 
 gem 'redcarpet'
 
+gem 'ace-rails-ap'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
